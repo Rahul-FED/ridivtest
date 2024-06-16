@@ -1,0 +1,20 @@
+{
+  "favorites": [
+    {
+      "id": "8dc7",
+      "city": "delhi"
+    },
+    {
+      "id": "032e",
+      "city": "shimla"
+    },
+    {
+      "id": "d192",
+      "city": "kanpur"
+    },
+    {
+      "id": "a93e",
+      "city": "pune"
+    }
+  ]
+}
