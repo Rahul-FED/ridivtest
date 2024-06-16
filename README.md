@@ -1,3 +1,6 @@
+weatherAPIkey :"475e98006692f42f99e8d7b7a802246c"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
