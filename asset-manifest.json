@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rahul-FED.github.io/ridivtest/static/css/main.83710879.css",
+    "main.js": "/Rahul-FED.github.io/ridivtest/static/js/main.4c785f29.js",
+    "index.html": "/Rahul-FED.github.io/ridivtest/index.html",
+    "main.83710879.css.map": "/Rahul-FED.github.io/ridivtest/static/css/main.83710879.css.map",
+    "main.4c785f29.js.map": "/Rahul-FED.github.io/ridivtest/static/js/main.4c785f29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83710879.css",
+    "static/js/main.4c785f29.js"
+  ]
+}
